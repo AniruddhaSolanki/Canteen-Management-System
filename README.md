@@ -1,2 +1,2 @@
-# Canteen Management System
+# Project
 Canteen Management System on Java
